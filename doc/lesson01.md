@@ -34,12 +34,12 @@
 - <a href="https://ru.wikipedia.org/wiki/Параллелизм_в_Java">Параллелизм в Java</a>
 - <a href="https://ru.wikipedia.org/wiki/Монитор_(синхронизация)">Монитор (синхронизация)</a>
 - <a href="https://en.wikipedia.org/wiki/Compare-and-swap">Compare-and-swap</a>
-- <a href="http://www.javaspecialist.ru/2011/06/java-memory-model.html">Java Memory Model</a>
+- <a href="https://devsday.ru/blog/details/818">Java Memory Model</a>
 - <a href="http://www.skipy.ru/technics/synchronization.html">Синхронизация потоков</a>
 - <a href="https://habrahabr.ru/company/luxoft/blog/157273">Обзор java.util.concurrent.*</a>
 - <a href="https://habrahabr.ru/post/132884/">Как работает ConcurrentHashMap</a>
 - <a href="https://habrahabr.ru/post/277669/"> Справочник по синхронизаторам java.util.concurrent.*</a>
-- <a href="http://articles.javatalks.ru/articles/17">Использование ThreadLocal переменных</a>
+- <a href="http://blog.dst.in.ua/?p=320">Использование ThreadLocal переменных</a>
 - <a href="https://www.youtube.com/watch?v=8piqauDj2yo">Николай Алименков — Прикладная многопоточность</a>
 - <a href="http://stackoverflow.com/questions/20163056/in-java-can-thread-switching-happen-in-the-synchronized-block">Can thread switching happen in the synchronized block?</a>
 - [The Deadlock Empire](https://deadlockempire.github.io/)
